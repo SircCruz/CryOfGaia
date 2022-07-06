@@ -1,0 +1,32 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Seed : MonoBehaviour
+{
+    public GameObject seed;
+
+    C1Mission1 c1Mission1;
+
+    private void Start()
+    {
+        c1Mission1 = GameObject.FindGameObjectWithTag("Game Master").GetComponent<C1Mission1>();
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Player" && !c1Mission1.isHoldingSeed)
+        {
+            c1Mission1.isHoldingSeed = true;
+            Destroy(gameObject);
+        }
+        if (c1Mission1.isHoldingSeed)
+        {
+            seed.layer = LayerMask.NameToLayer("Task Object");
+        }
+        else if (!c1Mission1.isHoldingSeed)
+        {
+            seed.layer = LayerMask.NameToLayer("Task Item");
+        }
+    }
+}

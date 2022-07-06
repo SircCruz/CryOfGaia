@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3539428319288079549
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3539428319288079548}
+  - component: {fileID: 3539428319288079551}
+  m_Layer: 0
+  m_Name: Confetti
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3539428319288079548
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539428319288079549}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 1.0182, y: 1.8356}
+  m_SizeDelta: {x: 2.2672806, y: 2.1316814}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &3539428319288079551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3539428319288079549}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cbb17d7e71d005b439de35e2094ace88, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  blue: {fileID: 1323580985204896244, guid: 728a72f87fa3b3345bea0836054f9ba6, type: 3}
+  red: {fileID: 6068589257719835305, guid: 978143faa55ee3345b04fa02b7fcc706, type: 3}
+  yellow: {fileID: 6791905578422631932, guid: 7b46c11dde837b243a40d0aa4c143372, type: 3}
+  orange: {fileID: 623391263160220356, guid: 32443bfb64b041040b800c52853b6dae, type: 3}
+  green: {fileID: 7325733078475461920, guid: 8fc0f2e32cc6c404daba83db67b913f3, type: 3}

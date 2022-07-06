@@ -1,0 +1,446 @@
+fileFormatVersion: 2
+guid: b3da1c69cb8651641adcce7565f210bf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3216324403013880660
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_0"
+  - first:
+      213: 547177595358185628
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_1"
+  - first:
+      213: -7060134713723230487
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_2"
+  - first:
+      213: 7376532639597194925
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_3"
+  - first:
+      213: -4578404370538401279
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_4"
+  - first:
+      213: -2913147979257269931
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_5"
+  - first:
+      213: 3208156140989471058
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_6"
+  - first:
+      213: 8309321204685694208
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_7"
+  - first:
+      213: -2775115616226330085
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_8"
+  - first:
+      213: 7963009376884499931
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_9"
+  - first:
+      213: 3518302375257705676
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_10"
+  - first:
+      213: 799948680209080359
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_11"
+  - first:
+      213: -6117288483566061979
+    second: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_12"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_0"
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 852
+        width: 584
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b0014f00ea2ac20800000000000000
+      internalID: 3216324403013880660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_1"
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 833
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c988068bf17f79700800000000000000
+      internalID: 547177595358185628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_2"
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 833
+        width: 143
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e66f1252ec550e90800000000000000
+      internalID: -7060134713723230487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_3"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 626
+        width: 451
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daee3496a55be5660800000000000000
+      internalID: 7376532639597194925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_4"
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 632
+        width: 137
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10276ff7b7d3670c0800000000000000
+      internalID: -4578404370538401279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_5"
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 632
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551393ee85b6297d0800000000000000
+      internalID: -2913147979257269931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_6"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 450
+        width: 245
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2595aaf3309a58c20800000000000000
+      internalID: 3208156140989471058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_7"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 450
+        width: 244
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00569e96c93a05370800000000000000
+      internalID: 8309321204685694208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_8"
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 443
+        width: 135
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ab03cdc0fcc79d0800000000000000
+      internalID: -2775115616226330085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_9"
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 443
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd52e44a6da428e60800000000000000
+      internalID: 7963009376884499931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_10"
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 223
+        width: 443
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc06a99e5583d030800000000000000
+      internalID: 3518302375257705676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_11"
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 218
+        width: 440
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a76a161df91b00800000000000000
+      internalID: 799948680209080359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014cartoon game button ui interface_5238863_12"
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 38
+        width: 167
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f474f8860b1ba0800000000000000
+      internalID: -6117288483566061979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_10": 3518302375257705676
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_7": 8309321204685694208
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_2": -7060134713723230487
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_8": -2775115616226330085
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_11": 799948680209080359
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_3": 7376532639597194925
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_6": 3208156140989471058
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_9": 7963009376884499931
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_4": -4578404370538401279
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_0": 3216324403013880660
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_5": -2913147979257269931
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_12": -6117288483566061979
+      "\u2014Pngtree\u2014cartoon game button ui interface_5238863_1": 547177595358185628
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

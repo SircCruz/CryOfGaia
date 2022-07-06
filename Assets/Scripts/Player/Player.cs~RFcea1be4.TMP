@@ -1,0 +1,55 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using DragonBones;
+using UnityEngine.UI;
+
+public class Player : MonoBehaviour
+{
+    public Slider HUD;
+    public UnityArmatureComponent anim;
+    public CharacterController2D controller;
+    public Rigidbody2D ouchSpeed;
+    public GameObject enemyAttackCollider;
+
+    public float runSpeed = 40f;
+    float horizontalMove = 0f;
+
+    bool jump = false;
+    void Update()
+    {
+        horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
+        if (Input.GetButtonUp("Horizontal"))
+        {
+            anim.animation.Play("idle1");
+        }
+        if (Input.GetButtonDown("Horizontal"))
+        {
+            anim.animation.Play("running");
+        }
+        if (Input.GetButtonDown("Jump"))
+        {
+            jump = true;
+        }
+    }
+    private void FixedUpdate()
+    {
+        controller.Move(horizontalMove * Time.fixedDeltaTime, false, jump);
+        jump = false;
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if(collision.gameObject.tag == "EnemyAttackCollider")
+        {
+            HUD.value -= 1f;
+            Ouch();
+        }
+    }
+    Vector2 moveDirection;
+    void Ouch()
+    {
+        Debug.Log("ouch");
+        moveDirection = enemyAttackCollider.transform.position - ouchSpeed.transform.position;
+        ouchSpeed.AddForce(moveDirection.normalized * -1000f);
+    }
+}

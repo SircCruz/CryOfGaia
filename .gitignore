@@ -1,0 +1,13 @@
+*.csproj
+*.sln
+data/
+obj/
+UserSettings/
+Temp/
+ProjectSettings/
+Packages/
+Logs/
+Library/
+.vsconfig
+user.keystore
+.vs/

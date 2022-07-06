@@ -1,0 +1,10 @@
+24fps animations
+top to lowest
+
+*cannon-smallup
+*cannon-smalldown
+*light
+*cannon-big
+*stand-front
+*blade
+*stand-back

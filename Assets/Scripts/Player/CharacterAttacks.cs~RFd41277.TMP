@@ -1,0 +1,35 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class CharacterAttacks : MonoBehaviour
+{
+    public GameObject player;
+
+    //for ranged attack
+    public GameObject bullet;
+    Vector3 spawnPos;
+    Quaternion playerRotation;
+
+    // Start is called before the first frame update
+    void Start()
+    {
+       
+
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        //for ranged attack
+        Vector3 playerPos = player.transform.position;
+        Vector3 playerDirection = player.transform.forward;
+        playerRotation = player.transform.rotation;
+        float spawnDistance = 10;
+        spawnPos = playerPos + playerDirection * spawnDistance;
+        if (Input.GetKeyDown(KeyCode.LeftControl))
+        {
+            Instantiate(bullet, spawnPos, playerRotation);
+        }
+    }
+}

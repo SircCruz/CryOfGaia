@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: d8288c14205d60d4280b3ed55334367d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -363912260030496133
+    second: "\u2014Pngtree\u2014music play key game button_5320096_0"
+  - first:
+      213: 4609688060228900742
+    second: "\u2014Pngtree\u2014music play key game button_5320096_1"
+  - first:
+      213: 8071254197033553569
+    second: "\u2014Pngtree\u2014music play key game button_5320096_2"
+  - first:
+      213: -973965295548134475
+    second: "\u2014Pngtree\u2014music play key game button_5320096_3"
+  - first:
+      213: 6099332212974698747
+    second: "\u2014Pngtree\u2014music play key game button_5320096_4"
+  - first:
+      213: -3125503459127842195
+    second: "\u2014Pngtree\u2014music play key game button_5320096_5"
+  - first:
+      213: 9064958551774412635
+    second: "\u2014Pngtree\u2014music play key game button_5320096_3"
+  - first:
+      213: -4909034183626955088
+    second: "\u2014Pngtree\u2014music play key game button_5320096_4"
+  - first:
+      213: 427925207182862511
+    second: "\u2014Pngtree\u2014music play key game button_5320096_5"
+  - first:
+      213: 5346596645994995974
+    second: "\u2014Pngtree\u2014music play key game button_5320096_6"
+  - first:
+      213: 697295138959117845
+    second: "\u2014Pngtree\u2014music play key game button_5320096_7"
+  - first:
+      213: -8044265233985647181
+    second: "\u2014Pngtree\u2014music play key game button_5320096_8"
+  - first:
+      213: -6534486945925132860
+    second: "\u2014Pngtree\u2014music play key game button_5320096_9"
+  - first:
+      213: 1916985986130404679
+    second: "\u2014Pngtree\u2014music play key game button_5320096_10"
+  - first:
+      213: 7143328522329996507
+    second: "\u2014Pngtree\u2014music play key game button_5320096_11"
+  - first:
+      213: 2147779694408110770
+    second: "\u2014Pngtree\u2014music play key game button_5320096_12"
+  - first:
+      213: 2125912786995371411
+    second: "\u2014Pngtree\u2014music play key game button_5320096_13"
+  - first:
+      213: -3383070321244094884
+    second: "\u2014Pngtree\u2014music play key game button_5320096_14"
+  - first:
+      213: 378915704558097424
+    second: "\u2014Pngtree\u2014music play key game button_5320096_15"
+  - first:
+      213: 5960554450635274707
+    second: "\u2014Pngtree\u2014music play key game button_5320096_16"
+  - first:
+      213: 6888053839238867751
+    second: "\u2014Pngtree\u2014music play key game button_5320096_17"
+  - first:
+      213: 920870665398489911
+    second: "\u2014Pngtree\u2014music play key game button_5320096_18"
+  - first:
+      213: 3528237843086566696
+    second: "\u2014Pngtree\u2014music play key game button_5320096_19"
+  - first:
+      213: -4464032427552440538
+    second: "\u2014Pngtree\u2014music play key game button_5320096_20"
+  - first:
+      213: -2383390366547956032
+    second: "\u2014Pngtree\u2014music play key game button_5320096_21"
+  - first:
+      213: 3984963977628298889
+    second: "\u2014Pngtree\u2014music play key game button_5320096_22"
+  - first:
+      213: 852871569553347908
+    second: "\u2014Pngtree\u2014music play key game button_5320096_23"
+  - first:
+      213: 7568425908034181889
+    second: "\u2014Pngtree\u2014music play key game button_5320096_24"
+  - first:
+      213: -838926127967601135
+    second: "\u2014Pngtree\u2014music play key game button_5320096_25"
+  - first:
+      213: -6807778765757308922
+    second: "\u2014Pngtree\u2014music play key game button_5320096_26"
+  - first:
+      213: -3485939075629009370
+    second: "\u2014Pngtree\u2014music play key game button_5320096_27"
+  - first:
+      213: 5112112434160441409
+    second: "\u2014Pngtree\u2014music play key game button_5320096_28"
+  - first:
+      213: 7874251648324754313
+    second: "\u2014Pngtree\u2014music play key game button_5320096_29"
+  - first:
+      213: -8122791379347152356
+    second: "\u2014Pngtree\u2014music play key game button_5320096_30"
+  - first:
+      213: -7960975736301350336
+    second: "\u2014Pngtree\u2014music play key game button_5320096_31"
+  - first:
+      213: -6509572476101378439
+    second: "\u2014Pngtree\u2014music play key game button_5320096_32"
+  - first:
+      213: 7564124758258828642
+    second: "\u2014Pngtree\u2014music play key game button_5320096_33"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014music play key game button_5320096_0"
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 281
+        width: 163
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7209734abf13faf0800000000000000
+      internalID: -363912260030496133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014music play key game button_5320096_1"
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 254
+        width: 164
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6879d4b1ed6e8ff30800000000000000
+      internalID: 4609688060228900742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014music play key game button_5320096_2"
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 281
+        width: 163
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aec01acdead20070800000000000000
+      internalID: 8071254197033553569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014music play key game button_5320096_3"
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 20
+        width: 106
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f372e46c33dcd70800000000000000
+      internalID: 9064958551774412635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014music play key game button_5320096_1": 4609688060228900742
+      "\u2014Pngtree\u2014music play key game button_5320096_3": 9064958551774412635
+      "\u2014Pngtree\u2014music play key game button_5320096_2": 8071254197033553569
+      "\u2014Pngtree\u2014music play key game button_5320096_0": -363912260030496133
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
